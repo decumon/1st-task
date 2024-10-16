@@ -11,3 +11,11 @@ body{background: #eddaff}
 .letterSpacing{
     letter-spacing: .2rem;
 }
+
+.disc{
+   list-style-type:disc;
+}
+
+.square {
+    list-style-type:square;
+}
